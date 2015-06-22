@@ -30,9 +30,8 @@ THE POSSIBILITY OF SUCH DAMAGE.
 // BME280 MOD-1022 weather multi-sensor Arduino demo
 // Written originally by Embedded Adventures
 
-
 // This #include statement was automatically added by the Spark IDE.
-#include "BME280/BME280.h"
+#include "BME280_ParticleCore/BME280_ParticleCore.h"
 
 // Arduino needs this to pring pretty numbers
 
