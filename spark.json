@@ -1,0 +1,7 @@
+{
+  "name": "BME280_ParticleCore",
+  "author": "Donnie Bixler <dbixlerjr@gmail.com>",
+  "license": "MIT",
+  "version": "0.0.1",
+  "description": "Adapted the BME280 Arduino Library from Ian Harris to work with the Particle Core"
+}
