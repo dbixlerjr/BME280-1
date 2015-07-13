@@ -31,12 +31,12 @@ THE POSSIBILITY OF SUCH DAMAGE.
 
 #include "BME280_ParticleCore.h"
 
-//#include "spark_wiring.h"
-//#include "spark_wiring_interrupts.h"
-//#include "spark_wiring_usartserial.h"
-//#include "spark_wiring_spi.h"
-//#include "spark_wiring_i2c.h"
-//#include "spark_wiring_string.h"
+#include "spark_wiring.h"
+#include "spark_wiring_interrupts.h"
+#include "spark_wiring_usartserial.h"
+#include "spark_wiring_spi.h"
+#include "spark_wiring_i2c.h"
+#include "spark_wiring_string.h"
 
 // Returns temperature in DegC, double precision. Output value of “51.23” equals 51.23 DegC.
 // t_fine carries fine temperature as global value
